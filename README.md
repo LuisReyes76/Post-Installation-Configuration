@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 
-Acknowledge Agent Panel vs Admin Panel - The two links below will bring you to the Admin & Agent panels
+Acknowledge Agent Panel vs Admin Panel - The two links below will bring you to the Admin & Agent panels (The links will only work when you are doing this walk-through)
 
 Admin/Analyst Login Page:
 http://localhost/osTicket/scp/login.php 
@@ -48,7 +48,8 @@ Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
 Online Banking
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/c8ee451a-5986-475d-b26b-ac07813998c8)
+
 </p>
 
 Allow anyone to create tickets
