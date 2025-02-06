@@ -48,8 +48,7 @@ Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
 Online Banking
 
 <p>
-![image](https://github.com/user-attachments/assets/c8ee451a-5986-475d-b26b-ac07813998c8)
-
+![image]
 </p>
 
 Allow anyone to create tickets
@@ -88,3 +87,5 @@ Other
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+Now your osTicket system is all set up. Admin, Agents and Users are now able to use the ticketing system.
